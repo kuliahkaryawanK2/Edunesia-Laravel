@@ -1,0 +1,12 @@
+.s-customers-items{
+    display: flex;
+    flex-wrap: wrap;
+}
+.s-customer-item{
+    height: 9.861vw;
+    margin-bottom: 4.861vw;
+}
+.img .s-customer-item{
+    display: block;
+    pointer-events: none;
+}
